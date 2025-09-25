@@ -110,9 +110,11 @@ predict(w1,w2,test)
 ## Output:
 
 Loss Graph:
+
 <img width="750" height="517" alt="image" src="https://github.com/user-attachments/assets/5f66f634-da93-48d6-84ae-bc495a6b5783" />
 
 XOR Testing:
+
 <img width="334" height="117" alt="image" src="https://github.com/user-attachments/assets/5fc16cda-f4f0-4a47-93fd-aac239ad96c0" />
 
 ## Result:
